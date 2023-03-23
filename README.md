@@ -16,6 +16,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limjunsung225)](https://github.com/limjunsung225/limjunsung225)
 </p>
 
 
@@ -35,6 +38,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@jsbryan)](https://velog.io/@jsbryan)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:limjs4476@gmail.com)](mailto:limjs4476@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jsbryan@naver.com)](mailto:jsbryan@naver.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limjunsung225)](https://github.com/limjunsung225/limjunsung225)
+
+
 
 
