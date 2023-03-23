@@ -35,7 +35,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:limjs4476@gmail.com)](mailto:limjs4476@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jsbryan@naver.com)](mailto:jsbryan@naver.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limjunsung225&langs_count=10&layout=compact&theme=dark)](https://github.com/limjunsung225/limjunsung225)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limjunsung225&layout=compact&theme=dracula)
 
 
 
