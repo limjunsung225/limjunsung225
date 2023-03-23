@@ -1,4 +1,4 @@
-# LIM JUN SUNG 😉
+# LIM JUN SUNG 
 
 <h3 align="center"><b>🔫 Hits 🔫 </b></h3>
 <p align="center">
