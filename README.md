@@ -61,3 +61,13 @@
 
 <br>
 <br>
+
+### [미정](https://github.com/limjunsung225/OpenViduProject)
+- 수행 기간 : 2023.07~ 진행중
+- 기술 스택 : Spring Bookt , JAVA, JPA , Spring Security / MYSQL , Docker / VCS - Git, Github / Jira , Jenkins , OpenVidu , OpenCV, Clova Face Recognition
+- 업무 성과 : 얼굴 인식 알고리즘과 OpenVidu를 사용한 실시간 화상회의 WebRTC Application 
+
+
+<br>
+<br>
+
