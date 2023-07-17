@@ -44,7 +44,12 @@
 
 ## 🖥️ Project
 
-## 👩‍💻 Enjoy Trip
+### [Travel Maker](https://github.com/limjunsung225/PublicAPIProject)
+- 수행 기간 : 2023.04~ 2023.05
+- 기술 스택 : Spring Boot - JAVA / Vue - JavaScript / MyBatis , MYSQL / VCS - Git, Github
+- 업무 성과 : 공공데이터를 활용하여 지역과 키워드를 바탕으로 한 조회 시스템을 구축해 사용자에게 효율적인 국내 여행지 정보를 제공하는 Web Application
+
+## 👩‍💻 Travel Maker
 
 ## ⚒️ 화면 구성
 
