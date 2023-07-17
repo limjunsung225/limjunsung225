@@ -52,3 +52,12 @@
 
 <br>
 <br>
+
+### [ByeRus](https://github.com/limjunsung225/CapStone_Roguelike)
+- 수행 기간 : 2021.03~ 2021.06
+- 기술 스택 : C# / Unity, Blender / VCS - Git, Github
+- 업무 성과 : GitHub를 통한 형상관리, Blender를 활용한 3D 모델링 처리로 이루어진 3D Rogue-Like Unity 프로젝트
+
+
+<br>
+<br>
