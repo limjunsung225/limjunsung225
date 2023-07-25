@@ -45,6 +45,10 @@
 ## 🖥️ Project
 
 ### [Travel Maker](https://github.com/limjunsung225/PublicAPIProject)
+<br>
+<img src="https://github.com/limjunsung225/PublicAPIProject/assets/55376155/8bfba867-2021-4e6f-b126-eb17d397fe16.png" width="600" height="400"/>
+<br><br><br>
+
 - 수행 기간 : 2023.04~ 2023.05
 - 기술 스택 : Spring Boot - JAVA / Vue - JavaScript / MyBatis , MYSQL / VCS - Git, Github
 - 업무 성과 : 공공데이터를 활용하여 지역과 키워드를 바탕으로 한 조회 시스템을 구축해 사용자에게 효율적인 국내 여행지 정보를 제공하는 Web Application
@@ -54,6 +58,10 @@
 <br>
 
 ### [ByeRus](https://github.com/limjunsung225/CapStone_Roguelike)
+<br>
+<img src="https://github.com/limjunsung225/PublicAPIProject/assets/55376155/578b7b46-444b-4cad-a1dd-8b7853d1c5e4.png" width="600" height="400"/>
+<br><br><br>
+
 - 수행 기간 : 2021.03~ 2021.06
 - 기술 스택 : C# / Unity, Blender / VCS - Git, Github
 - 업무 성과 : GitHub를 통한 형상관리, Blender를 활용한 3D 모델링 처리로 이루어진 3D Rogue-Like Unity 프로젝트
