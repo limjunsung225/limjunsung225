@@ -57,6 +57,19 @@
 <br>
 <br>
 
+### [A:tension](https://github.com/limjunsung225/OpenViduProject)
+<br>
+<img src="https://github.com/A-tension/Frontend/assets/55376155/a9af6746-7c95-4010-8104-b4682b829a67.png" width="600" height="400"/>
+<br><br><br>
+
+- 수행 기간 : 2023.07~ 2023.08
+- 기술 스택 : Spring Boot , JAVA, JPA , Spring Security / MYSQL , Docker / VCS - Git, Github / Jira , OpenVidu , OpenCV, Face-API.js
+- 업무 성과 : 얼굴 인식 알고리즘과 OpenVidu를 사용한 실시간 화상회의 WebRTC Application 
+
+
+<br>
+<br>
+
 ### [ByeRus](https://github.com/limjunsung225/CapStone_Roguelike)
 <br>
 <img src="https://github.com/limjunsung225/PublicAPIProject/assets/55376155/578b7b46-444b-4cad-a1dd-8b7853d1c5e4.png" width="600" height="400"/>
@@ -70,12 +83,5 @@
 <br>
 <br>
 
-### [미정](https://github.com/limjunsung225/OpenViduProject)
-- 수행 기간 : 2023.07~ 진행중
-- 기술 스택 : Spring Bookt , JAVA, JPA , Spring Security / MYSQL , Docker / VCS - Git, Github / Jira , Jenkins , OpenVidu , OpenCV, Clova Face Recognition
-- 업무 성과 : 얼굴 인식 알고리즘과 OpenVidu를 사용한 실시간 화상회의 WebRTC Application 
 
-
-<br>
-<br>
 
