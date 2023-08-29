@@ -63,7 +63,7 @@
 <br><br><br>
 
 - 수행 기간 : 2023.07~ 2023.08
-- 기술 스택 : Spring Boot , JAVA, JPA , Spring Security / React - JavaScript / MYSQL , Docker / VCS - Git, Github / Jira , OpenVidu , Face-API.js
+- 기술 스택 : Spring Boot , JAVA, JPA , Spring Security / React - JavaScript / MYSQL , Docker / VCS - Git, Github / Jira , OpenVidu
 - 업무 성과 : OAuth 소셜로그인, 얼굴 인식 알고리즘과 OpenVidu를 사용한 실시간 화상회의 WebRTC Application 
 
 
