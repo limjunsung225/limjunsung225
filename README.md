@@ -57,14 +57,14 @@
 <br>
 <br>
 
-### [A:tension](https://github.com/limjunsung225/OpenViduProject)
+### [A:tension](https://github.com/limjunsung225/A-tension)
 <br>
 <img src="https://github.com/A-tension/Frontend/assets/55376155/a9af6746-7c95-4010-8104-b4682b829a67.png" width="600" height="400"/>
 <br><br><br>
 
 - 수행 기간 : 2023.07~ 2023.08
-- 기술 스택 : Spring Boot , JAVA, JPA , Spring Security / MYSQL , Docker / VCS - Git, Github / Jira , OpenVidu , OpenCV, Face-API.js
-- 업무 성과 : 얼굴 인식 알고리즘과 OpenVidu를 사용한 실시간 화상회의 WebRTC Application 
+- 기술 스택 : Spring Boot , JAVA, JPA , Spring Security / React - JavaScript / MYSQL , Docker / VCS - Git, Github / Jira , OpenVidu , Face-API.js
+- 업무 성과 : OAuth 소셜로그인, 얼굴 인식 알고리즘과 OpenVidu를 사용한 실시간 화상회의 WebRTC Application 
 
 
 <br>
