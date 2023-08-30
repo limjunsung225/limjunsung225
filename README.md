@@ -51,7 +51,8 @@
 
 - 수행 기간 : 2023.04~ 2023.05
 - 기술 스택 : Spring Boot - JAVA / Vue - JavaScript / MyBatis , MYSQL / VCS - Git, Github
-- 업무 성과 : 공공데이터를 활용하여 지역과 키워드를 바탕으로 한 조회 시스템을 구축해 사용자에게 효율적인 국내 여행지 정보를 제공하는 Web Application
+- 주요 역할 : 유저 정보 생성 조회 및 탈퇴 , vue quill을 이용한 게시판 구성 , 현재 위치를 기준으로 한 관광지 조회 Backend API 구성, CSS, HTML을 통한 전체적인 UI 디자인 작업.
+- 업무 성과 : 공공데이터를 활용하여 지역과 키워드를 바탕으로 한 조회 시스템을 구축해 사용자에게 효율적인 국내 여행지 정보를 제공하는 Web Application.
 
 
 <br>
@@ -64,7 +65,8 @@
 
 - 수행 기간 : 2023.07~ 2023.08
 - 기술 스택 : Spring Boot , JAVA, JPA , Spring Security / React - Type Script / MYSQL , Docker / VCS - Git, Github / Jira , OpenVidu
-- 업무 성과 : OAuth 소셜로그인, 얼굴 인식 알고리즘과 OpenVidu를 사용한 실시간 화상회의 WebRTC Application 
+- 주요 역할 : Oauth, JWT Token, Spring Security를 이용한 세션 및 인/허가 관리 및 보안관리. 회원 서비스를 위한 Backend API 생성 및 연동. Face-API.js를 활용한 표정 감지 및 Count.
+- 업무 성과 : OAuth 소셜로그인, 얼굴 인식 알고리즘과 OpenVidu를 사용한 실시간 화상회의 WebRTC Application.
 
 
 <br>
@@ -77,7 +79,8 @@
 
 - 수행 기간 : 2021.03~ 2021.06
 - 기술 스택 : C# / Unity, Blender / VCS - Git, Github
-- 업무 성과 : GitHub를 통한 형상관리, Blender를 활용한 3D 모델링 처리로 이루어진 3D Rogue-Like Unity 프로젝트
+- 주요 역할 : Main Character Interaction 기능 , Scene Manager를 통한 다양한 Scene 제작 및 전환, 프로젝트 전체의 Item , Inventory 시스템 제작. 난수 생성을 이용한 랜덤 아이템 획득 로직 제작.
+- 업무 성과 : GitHub를 통한 형상관리, Blender를 활용한 3D 모델링 처리로 이루어진 3D Rogue-Like Unity 프로젝트.
 
 
 <br>
