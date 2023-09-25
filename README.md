@@ -66,7 +66,7 @@
 - 수행 기간 : 2023.07~ 2023.08
 - 기술 스택 : Spring Boot , JAVA, JPA , Spring Security / React - Type Script / MYSQL , Docker / VCS - Git, Github / Jira , OpenVidu
 - 주요 역할 : Oauth, JWT Token, Spring Security를 이용한 세션 및 인/허가 관리 및 보안관리. 회원 서비스를 위한 Backend API 생성 및 연동. Face-API.js를 활용한 표정 감지 및 Count.
-- 업무 성과 : OAuth 소셜로그인, 얼굴 인식 알고리즘과 OpenVidu를 사용한 실시간 화상회의 WebRTC Application.
+- 업무 성과 : 얼굴 인식 알고리즘과 OpenVidu를 사용한 WebRTC기반 실시간 화상회의 플랫폼
 
 
 <br>
