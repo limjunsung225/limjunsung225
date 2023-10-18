@@ -44,15 +44,20 @@
 
 ## 🖥️ Project
 
-### [Travel Maker](https://github.com/limjunsung225/PublicAPIProject)
+
+
 <br>
-<img src="https://github.com/limjunsung225/PublicAPIProject/assets/55376155/8bfba867-2021-4e6f-b126-eb17d397fe16.png" width="600" height="400"/>
+
+### [편식](https://github.com/limjunsung225/PyeonSik)
+<br>
+<img src="https://github.com/limjunsung225/PyeonSik/assets/55376155/2706ed4f-1876-4565-b535-dc9600e3e037.png" width="550" height="350"/>
 <br><br><br>
 
-- 수행 기간 : 2023.04~ 2023.05
-- 기술 스택 : Spring Boot - JAVA / Vue - JavaScript / MyBatis , MYSQL / VCS - Git, Github
-- 주요 역할 : 유저 정보 생성 조회 및 탈퇴 , vue quill을 이용한 게시판 구성 , 현재 위치를 기준으로 한 관광지 조회 Backend API 구성, CSS, HTML을 통한 전체적인 UI 디자인 작업.
-- 업무 성과 : 공공데이터를 활용하여 지역과 키워드를 바탕으로 한 조회 시스템을 구축해 사용자에게 효율적인 국내 여행지 정보를 제공하는 Web Application.
+- 수행 기간 : 2023.09~ 2023.10
+- 수상 내역 : 삼성전자 프로젝트 최우수상
+- 기술 스택 : Spring Boot , JAVA, JPA , Spring Security / Flutter , Flask / MYSQL , Docker , FireBase, Redis, Kafka/ VCS - Git, Github / Spark, Jupiter, Selenium, Pandas
+- 주요 역할 : 편의점별 행사정보 크롤러 구현, 데이터 정제 및 전처리를 위한 pandas를 활용한 데이터프레임 생성, Spark를 사용하여 영양정보 기반 추천을 위한 로직 구현
+- 업무 성과 : 추천 / 분산 시스템이 적용된 나만의 건강한 편의점 조합 추천 Application
 
 
 <br>
@@ -70,6 +75,21 @@
 
 
 <br>
+
+### [Travel Maker](https://github.com/limjunsung225/PublicAPIProject)
+<br>
+<img src="https://github.com/limjunsung225/PublicAPIProject/assets/55376155/8bfba867-2021-4e6f-b126-eb17d397fe16.png" width="600" height="400"/>
+<br><br><br>
+
+- 수행 기간 : 2023.04~ 2023.05
+- 수상 내역 : 삼성전자 프로젝트 우수상
+- 기술 스택 : Spring Boot - JAVA / Vue - JavaScript / MyBatis , MYSQL / VCS - Git, Github
+- 주요 역할 : 유저 정보 생성 조회 및 탈퇴 , vue quill을 이용한 게시판 구성 , 현재 위치를 기준으로 한 관광지 조회 Backend API 구성, CSS, HTML을 통한 전체적인 UI 디자인 작업.
+- 업무 성과 : 공공데이터를 활용하여 지역과 키워드를 바탕으로 한 조회 시스템을 구축해 사용자에게 효율적인 국내 여행지 정보를 제공하는 Web Application.
+
+
+<br>
+
 <br>
 
 ### [ByeRus](https://github.com/limjunsung225/CapStone_Roguelike)
